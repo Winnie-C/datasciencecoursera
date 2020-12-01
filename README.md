@@ -1,2 +1,2 @@
 # datasciencecoursera
-For Coursera
+Python related
